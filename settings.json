@@ -13,6 +13,7 @@
                     "constant", //String, Number, Boolean…, this, super
                     "storage.modifier", //static keyword
                     "storage.type.class.js", //class keyword
+                    "variable" // self
                 ],
                 "settings": {
                     "fontStyle": "italic"
